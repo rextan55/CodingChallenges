@@ -2,7 +2,6 @@ def AlphaReverse(str)
   a = ('a'..'z').to_a
   str = str.downcase
   str = str.split(//).to_a
-  str = str.compact
   i = 0
   result = []
   while i < str.length
