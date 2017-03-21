@@ -1,0 +1,6 @@
+Class RestMethods
+require 'rest-client'
+
+def getESPN(url, payload, headers)
+
+end
