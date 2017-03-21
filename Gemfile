@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'cucumber'
+gem 'rspec'
+gem 'rspec-expectations'
+gem 'json'
+gem 'rest-client'
+gem 'selenium-webdriver'
+gem 'rails'
+gem 'capybara'
